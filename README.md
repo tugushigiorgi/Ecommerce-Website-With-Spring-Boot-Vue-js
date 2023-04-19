@@ -1,5 +1,6 @@
-Online E-Commerce App
 This is an online e-commerce application built with Vue.js and Spring Boot. It provides various functionalities for managing products, orders, users, and carts, as well as authentication using JWT.
+
+ 
 
 Features
 Admin Page: A secure admin page for managing products, orders, and users.
@@ -9,17 +10,14 @@ Order Management: CRUD operations for managing orders, including viewing order d
 User Management: CRUD operations for managing users, including viewing user details, updating user information, and deleting users.
 Cart Management: Ability to add products to the cart, view cart details, update cart items, and place orders from the cart.
 Purchase History: Ability for users to view their purchase history and order details.
-Web scrapping Functionality Where you can Scrap Data from Gsmarena when adding new Mobile Product to avoid manually write All specs
+Web Scraping Functionality: Automatically scrapes data from GSM Arena when adding new mobile products to avoid manually writing all specs.
+Pagination: All lists in pages are paged for better performance and efficiency.
 Technologies Used
-Front-end: Vue.js, Vuex, Vue Router, Axios,  
+Front-end: Vue.js, Vuex, Vue Router, Axios, vue-awesome-paginate
 Back-end: Spring Boot, Spring Security, Spring Data JPA, MySQL
 Other Tools: Postman
-Getting Started
-Prerequisites
-fronted located  in eshopping.com
-Node.js and npm installed on your local machine.
-Java Development Kit (JDK) installed on your local machine.
-MySQL database setup with the required configuration.
+
+
 This is screenshots from that page
 
 ![index2](https://user-images.githubusercontent.com/92800578/233109834-314ef7cf-6cbf-4c39-bb53-4e6e425d65b6.png)
@@ -60,7 +58,7 @@ All of the data Will be filled Automaticly
 ![TotalRevanueScreenshot](https://user-images.githubusercontent.com/92800578/233110598-477948da-61eb-438d-a2dc-659f2ae5857e.png)
 
 ![TotalOrdersscreenshot](https://user-images.githubusercontent.com/92800578/233110618-46a8bb49-c31b-416f-a214-5b08ce667f95.png)
-
+  You can Add Banners which will be displayed as Carousel im index page
 ![BannerPage](https://user-images.githubusercontent.com/92800578/233110704-2a5806dd-65ed-42c8-9542-c8210e76fe7b.png)
 
 ![updateproduct1](https://user-images.githubusercontent.com/92800578/233110754-ddd0dc3d-3f10-4b87-8375-8023c85ee79b.png)
