@@ -2,7 +2,6 @@
 
 *This is an online e-commerce application built with Vue.js and Spring Boot. It provides various functionalities for managing products, orders, users, and carts, as well as authentication using JWT.*
 
-![Admin Page](admin_page_screenshot.png)
 
 ## Features
 
