@@ -25,7 +25,7 @@
 
 
 
-This is screenshots from that page
+##  This Some  screenshots 
 
 ![index2](https://user-images.githubusercontent.com/92800578/233109834-314ef7cf-6cbf-4c39-bb53-4e6e425d65b6.png)
 
@@ -41,7 +41,7 @@ This is screenshots from that page
 
 ![updateproduct1](https://user-images.githubusercontent.com/92800578/233110153-61fe678c-06d7-48fe-ab41-60d95858a61d.png)
 
-This is ADMIN PAGES , user with Role ROLE_ADMIN can acces it only OFC
+##  This is ADMIN PAGES , user with Role ROLE_ADMIN can acces it only OFC
 
 ![ManageOrders1](https://user-images.githubusercontent.com/92800578/233110415-004fdc72-1425-4878-9dd5-3a4b253d69a5.png)
 
@@ -57,24 +57,34 @@ This is ADMIN PAGES , user with Role ROLE_ADMIN can acces it only OFC
 
   
 ![addproduct1](https://user-images.githubusercontent.com/92800578/233110519-cfbb8252-9f2f-4cff-9473-6bde4dcdf1fe.png)
-All of the data Will be filled Automaticly
+##  All of the data Will be filled Automaticly
+
+
 ![addproduct2](https://user-images.githubusercontent.com/92800578/233110537-32325204-77e1-45b6-874b-447be88d5ce2.png)
 
-  Pictures you can upload from Localstorage
+ ##  Pictures you can upload from Localstorage
+ 
+ 
 ![addproduct3](https://user-images.githubusercontent.com/92800578/233110559-bdebcd50-3639-4403-8f82-2c4088575665.png)
-![TotalRevanueScreenshot](https://user-images.githubusercontent.com/92800578/233110598-477948da-61eb-438d-a2dc-659f2ae5857e.png)
 
-![TotalOrdersscreenshot](https://user-images.githubusercontent.com/92800578/233110618-46a8bb49-c31b-416f-a214-5b08ce667f95.png)
-  You can Add Banners which will be displayed as Carousel im index page
+
+  ##  You can Add Banners which will be displayed as Carousel im index page
+  
+  
 ![BannerPage](https://user-images.githubusercontent.com/92800578/233110704-2a5806dd-65ed-42c8-9542-c8210e76fe7b.png)
 
 ![updateproduct1](https://user-images.githubusercontent.com/92800578/233110754-ddd0dc3d-3f10-4b87-8375-8023c85ee79b.png)
 
 
 ![productupdate2](https://user-images.githubusercontent.com/92800578/233110776-88186439-5060-4c12-9438-3116530cfde7.png)
-There Is page where you can See Current Orders and Revanue Report
+
+##  There Is page where you can See Current Orders and Revanue Report
+
+
 ![TotalRevanueScreenshot](https://user-images.githubusercontent.com/92800578/233111088-e22f3d5c-2340-4d74-9bdb-0b35bf172824.png)
 ![TotalOrdersscreenshot](https://user-images.githubusercontent.com/92800578/233111259-ee8b8ef8-2e62-4b30-828c-263139331e98.png)
-this App uses JWT authenticationg spring boot 
+##  this App uses JWT authenticationg spring boot 
+
+
 ![login](https://user-images.githubusercontent.com/92800578/233111598-7cbb7503-7845-4fbf-994f-620ca0757c02.png)
 ![database](https://user-images.githubusercontent.com/92800578/233111824-44e963fc-d95d-4093-adc0-b0a9d419f556.png)
