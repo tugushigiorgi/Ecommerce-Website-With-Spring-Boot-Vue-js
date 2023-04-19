@@ -12,12 +12,13 @@
 - User Management: CRUD operations for managing users, including viewing user details, updating user information, and deleting users.
 - Cart Management: Ability to add products to the cart, view cart details, update cart items, and place orders from the cart.
 - Purchase History: Ability for users to view their purchase history and order details.
+- Report with Order Quantity and Total Revanue by months
 - Web Scraping Functionality: Automatically scrapes data from GSM Arena when adding new mobile products to avoid manually writing all specs.
 - Pagination: All lists in pages are paged for better performance and efficiency.
 
 ## Technologies Used
 
-**Front-end**: Vue.js, Vuex, Vue Router, Axios, vue-awesome-paginate
+**Front-end**: Vue.js, Vuex, Vue Router, Axios, vue-awesome-paginate  it is located in eshopping.com
 
 **Back-end**: Spring Boot, Spring Security, Spring Data JPA, MySQL
 
@@ -25,7 +26,7 @@
 
 
 
-##  This Some  screenshots 
+## Some  screenshots 
 
 ![index2](https://user-images.githubusercontent.com/92800578/233109834-314ef7cf-6cbf-4c39-bb53-4e6e425d65b6.png)
 
