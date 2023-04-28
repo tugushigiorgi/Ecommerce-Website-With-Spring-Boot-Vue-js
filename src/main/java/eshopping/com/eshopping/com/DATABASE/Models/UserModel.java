@@ -66,7 +66,7 @@ public class UserModel implements UserDetails {
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        // Return authorities based on the user's role
+       
         return new ArrayList<>(List.of(new SimpleGrantedAuthority("ROLE_" + ROLE)));
     }
 
