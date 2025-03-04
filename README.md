@@ -37,8 +37,7 @@
 
 ![Searchview2](https://user-images.githubusercontent.com/92800578/233109973-623b5e1f-7b71-4351-8798-b79c427d2f37.png)
 
-![ProfilePage1](https://user-images.githubusercontent.com/92800578/233110024-a79c7d21-761b-4b00-b3d2-022024e3b261.png)
-![ProfilePage2](https://user-images.githubusercontent.com/92800578/233110045-96095704-64ea-4fac-96d5-ede887dfd3a0.png)
+ 
 
 ![updateproduct1](https://user-images.githubusercontent.com/92800578/233110153-61fe678c-06d7-48fe-ab41-60d95858a61d.png)
 
